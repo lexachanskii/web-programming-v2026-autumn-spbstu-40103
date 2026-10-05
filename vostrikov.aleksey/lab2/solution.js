@@ -21,5 +21,3 @@ export function isPerfectNumber(value) {
 
   return divisorsSum === value;
 }
-
-
